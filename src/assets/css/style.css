@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Theme setup */
+@theme{
+    --font-display: "Open Sans", sans-serif;
+
+    --color-cgray: #848484;
+    --color-cgray-200: #E2E4ED;
+    --color-cdark-gray: #323232;
+    --color-cshade: #F3F4F4;
+
+
+}
+
